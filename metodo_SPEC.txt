@@ -2,3 +2,10 @@
 2. P -- Project it
 3. E -- Expect it
 4. C -- Collet it
+
+En español es:
+
+1. S -- Seleccionalo
+2. P -- Proyectalo
+3. E -- Experalo
+4. C -- Cobralo
