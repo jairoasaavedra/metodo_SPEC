@@ -1,4 +1,4 @@
 1. S -- Select it
 2. P -- Project it
-3. E -- Esperalo 
+3. E -- Expect it
 4. C -- Collet it
